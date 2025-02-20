@@ -1,7 +1,7 @@
 <?php
 require_once 'src/Factorial.php';
 
-use src\Factorial;
+use APP\Factorial;
 
 $resultado = '';
 
